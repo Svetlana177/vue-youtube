@@ -8,8 +8,8 @@
     <section>
       <div>
         <p>
-          <strong>Девушка:</strong>
-          12 122 из 14 0000
+          <strong>Кафешки:</strong>
+          12 122 из 14 000
         </p>
         <div class="progress" >
           <div

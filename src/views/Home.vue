@@ -1,6 +1,6 @@
 <template>
   <div>
-    1 there
+    Homepage
   </div>
 </template>
 
